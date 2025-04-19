@@ -25,7 +25,7 @@ A React TypeScript application that helps users find the best deals on Steam gam
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/shubham-nair/Steam-Deals-TS.git
 cd steam-deals-react-ts
 ```
 
